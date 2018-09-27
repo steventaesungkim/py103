@@ -9,3 +9,4 @@ elif 0 == day or day == 6:
     print("Please sleep in! ZZz!")
 else:
     print("Please try again. Enter a whole number between 0-6 to see if you have to go to work or sleep in.")
+print()

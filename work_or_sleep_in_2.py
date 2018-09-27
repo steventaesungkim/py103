@@ -14,3 +14,4 @@ try:
         print("Please try again. Enter a whole number between 0-6 to see if you have to go to work or sleep in.")
 except:
     print("Invalid entry!! Please try again. Enter a whole number between 0-6 to see if you have to go to work or sleep in.")
+print()

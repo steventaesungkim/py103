@@ -32,3 +32,4 @@ elif service.upper() == "BAD":
     print (("The total amount per person is: %.02f.") % (split_Bad))
 else:
     print("Please try again. Enter in the amount of your meal and how your service was: Good, Fair, Bad.")
+print()

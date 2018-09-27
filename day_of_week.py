@@ -19,3 +19,15 @@ elif day == 6:
     print("It is Saturday.")
 else:
     print("Please try again. Enter a whole number between 0-6 to find the day of the week.")
+print()
+
+
+# days_of_the_week = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+# count = 0
+# while count < day:
+#     count += 1
+# print(days_of_the_week[count])
+# print()
+
+
+    
